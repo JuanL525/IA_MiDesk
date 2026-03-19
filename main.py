@@ -8,6 +8,7 @@ from google import genai
 import requests
 import math 
 from typing import List
+import base64
 
 # Cargar variables de entorno
 load_dotenv()
